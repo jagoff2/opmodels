@@ -1,0 +1,18 @@
+{
+  "merge_timestamp": "2025-05-20T03:53:29Z",
+  "merge_method": "average",
+  "merge_ratios": [
+    1.0,
+    1.0
+  ],
+  "input_metadata": [
+    {
+      "output_slices": "gASVEwEAAAAAAAB9lCiMBHBsYW6UjAhidWlsdGluc5SMBXNsaWNllJOUSwBNWxNOh5RSlIwEbGVh\nZJRoBE1bE03BE06HlFKUjAlsZWFkX3Byb2KUaARNwRNNxBNOh5RSlIwKbGFuZV9saW5lc5RoBE3E\nE03UFU6HlFKUjA9sYW5lX2xpbmVzX3Byb2KUaARN1BVN3BVOh5RSlIwKcm9hZF9lZGdlc5RoBE3c\nFU3kFk6HlFKUjAxkZXNpcmVfc3RhdGWUaARN5BZN7BZOh5RSlIwIc2ltX3Bvc2WUaARN7BZN+BZO\nh5RSlIwRZGVzaXJlZF9jdXJ2YXR1cmWUaARN+BZN+hZOh5RSlIwDcGFklGgESv7///9OToeUUpR1\nLg==\n",
+      "model_checkpoint": "e30305e9-5fb8-48bd-a278-f714e880aef1/700"
+    },
+    {
+      "output_slices": "gASVewAAAAAAAAB9lCiMBHBsYW6UjAhidWlsdGluc5SMBXNsaWNllJOUSwBNWxNOh5RSlIwMZGVz\naXJlX3N0YXRllGgETVsTTWMTToeUUpSMEWRlc2lyZWRfY3VydmF0dXJllGgETWMTTWUTToeUUpSM\nA3BhZJRoBEr9////Tk6HlFKUdS4=\n",
+      "model_checkpoint": "5790a2c1-b487-4bef-a3c3-db1fcd5a756d/400"
+    }
+  ]
+}
